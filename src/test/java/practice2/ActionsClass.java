@@ -33,5 +33,7 @@ public class ActionsClass {
 		actions.keyDown(SearchArea, Keys.BACK_SPACE).keyUp(SearchArea, Keys.BACK_SPACE).build().perform();
 		actions.sendKeys(SearchArea, "Facebook").build().perform();
 		actions.contextClick(SearchArea).build().perform();
+		
+		System.out.println("a");
 	}
 }
