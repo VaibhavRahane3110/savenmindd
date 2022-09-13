@@ -35,5 +35,6 @@ public class ActionsClass {
 		actions.contextClick(SearchArea).build().perform();
 		
 		System.out.println("a");
+		System.out.println("a");
 	}
 }
