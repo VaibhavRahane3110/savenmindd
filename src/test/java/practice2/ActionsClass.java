@@ -36,5 +36,7 @@ public class ActionsClass {
 		
 		System.out.println("a");
 		System.out.println("a");
+		system.out.println("b");
+		system.out.println("b");
 	}
 }
